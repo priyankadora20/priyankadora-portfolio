@@ -1,0 +1,43 @@
+[
+  {
+    "title": "MonsterIndia Clone",
+    "imageSrc": "projects/project.png",
+    "description": "India's one of the largest job search website.And one can find jobs by easy application. Monster India started its operations in 2001 .",
+    "skills": ["HTML", "CSS", "Javascript", "Flikity"],
+    "demo": "https://magical-lollipop-a0ab27.netlify.app/",
+    "source": "https://github.com/Pankaj-78278/kaput-boundary-7997"
+  },
+  {
+    "title": "Tripvilla Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Largest holiday home rental portal in Asia. Browse your ideal vacation home from over 100000 holiday homes spread across destinations.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://eloquent-treacle-aba50e.netlify.app/",
+    "source": "https://github.com/priyankadora20/tripvilla-cloned-website#readme"
+  },
+  {
+    "title": "KindMeal",
+    "imageSrc": "projects/project.png",
+    "description": "KindMeal.my is Malaysia's leading meat-free lifestyle platform, discounted vegetarian meals to save animals, health.",
+    "skills": ["React","Redux","ChakraUI","MongoDB", "Express", "Node"],
+    "demo": "https://blessed-toes-567-ten.vercel.app/",
+    "source": "https://github.com/priyankadora20/punchy-substance-1301#readme"
+  }
+  ,
+  {
+    "title": "GadgetStop",
+    "imageSrc": "projects/project.png",
+    "description": "GeekBuying is one of the leading E-commerce websites delivering a wide range of consumer technology across the globe.",
+    "skills": ["React","Redux","ChakraUI","CSS ","MongoDB", "Express", "Node"],
+    "demo": "https://super-belekoy-306029.netlify.app/",
+    "source": "https://github.com/priyankadora20/blessed-toes-567#readme"
+  },
+  {
+    "title": "BMI calculator",
+    "imageSrc": "projects/project.png",
+    "description": "The BMI Calculator is a simple web application developed. It allows users to input their height and weight and calculates their Body Mass Index.",
+    "skills":  ["HTML", "CSS", "Javascript"],
+    "demo": "https://symphonious-lamington-307180.netlify.app/",
+    "source": "https://github.com/priyankadora20/bmi-calculator"
+  }
+]

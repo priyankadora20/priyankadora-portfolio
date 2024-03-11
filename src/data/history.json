@@ -1,0 +1,42 @@
+[
+  {
+    "role": "Web developer",
+    "organisation": "",
+    "startDate": "March 2023",
+    "endDate": "Present",
+    "experiences": [
+        "Creating frameworks and working with HTML and JavaScript.",
+        "Developing responsive and dynamic website applications and APIs."
+    ],
+    "imageSrc": "history/ofc.png"
+  },
+  {
+    "role": "Graduate Engineer Trainee ",
+    "organisation": "International Automotive Components",
+    "startDate": "November 2020",
+    "endDate": "March 2022",
+    "experiences": ["Worked actively contributing to the R&D project.",
+        "Assisted in project planning, execution, and monitoring."] ,
+    "imageSrc": "history/ofc.png"
+  },
+  {
+    "role": "Vocational Traniee",
+    "organisation": "Hindustan Aeronautical Limited",
+    "startDate": "June 2019",
+    "endDate": "July 2019 | 30 days",
+    "experiences": [
+      "Carried a study on Working of Jet Engine. "       
+    ],
+    "imageSrc": "history/ofc.png"
+  },
+  {
+    "role": "Vocational Traniee",
+    "organisation": "Steel Authority of India Limited",
+    "startDate": "June 2018",
+    "endDate": "July 2018 | 30 days",
+    "experiences": [
+      "Carried a study in manufacturing units."       
+    ],
+    "imageSrc": "history/ofc.png"
+  }
+]
